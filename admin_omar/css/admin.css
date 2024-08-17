@@ -1,0 +1,15 @@
+.login-page .main-footer{
+    display: none; /*para ocultar el footer del login*/
+}
+
+.nav-header{
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: #ff0000;
+}
+
+.especial{
+    font-weight: bold;
+    color: #ff0000;
+
+}
