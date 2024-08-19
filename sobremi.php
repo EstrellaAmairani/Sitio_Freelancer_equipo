@@ -30,10 +30,13 @@
     <div class="nav-bg">
     <nav class="navegacion-principal contenedor">
             <a href="index.php">Inicio</a>
-            <a href="sobre-mi.php">Sobre Mi</a>
+            <a href="sobremi.php">Sobre Mi</a>
             <a href="clientes.php">Clientes</a>
             <a href="contacto.php">Contacto</a>
-            <a href="admin-estrella/login.php">Iniciar Sesion</a>
+            <a href="colaborador.php">colaborador omar</a>
+            <a href="dariana.php">DESARROLLADOR DARIANA</a>
+            <a href="estrella.php">DISEÑADORA ESTRELLA</a>
+            <a href="admin-omar/login.php">Iniciar Sesion</a>
         </nav>
     </div>
 
