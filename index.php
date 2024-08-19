@@ -28,12 +28,12 @@
     </header>
 
     <div class="nav-bg">
-        <nav class="navegacion-principal contenedor">
-            <a href="#">Inicio</a>
-            <a href="#">Sobre Mi</a>
-            <a href="#">Clientes</a>
-            <a href="#">Contacto</a>
-            <a href="admin-estrella/login.php">Iniciar Sesion</a>
+    <nav class="navegacion-principal contenedor">
+            <a href="index.php">Inicio</a>
+            <a href="sobremi.php">Sobre Mi</a>
+            <a href="clientes.php">Clientes</a>
+            <a href="contacto.php">Contacto</a>
+            <a href="admin-omar/login.php">Iniciar Sesion</a>
         </nav>
     </div>
 
